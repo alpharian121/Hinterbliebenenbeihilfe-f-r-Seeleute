@@ -209,5 +209,5 @@ app.get('/failure', (req, res) => {
 
 // Start the Express server
 app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
+    console.log(`Server running at https://hinterbliebenenbeihilfe-f-r-s-git-cc1b72-alpharian121s-projects.vercel.app/:${port}`);
 });
